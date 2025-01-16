@@ -23,7 +23,7 @@ const App = () => {
     <div className="flex flex-col items-center bg-gray-50 min-h-screen p-6">
       <header className="text-center mb-6">
         <img
-          src="./src/assets/react.svg"
+          src="Peer2Play/src/assets/robot-icon.png"
           alt="Voicer Logo"
           className="mx-auto w-20 h-20 mb-4"
         />
